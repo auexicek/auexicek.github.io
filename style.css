@@ -37,7 +37,6 @@ body {
     width: 100%;
 }
 
-#link_card a:hover {
-    width: 150%;
-    transition-duration: 3s;
+#link_card {
+    width:auto;
 }
