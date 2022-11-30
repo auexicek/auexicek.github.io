@@ -39,4 +39,6 @@ body {
 
 #link_card {
     width: 25%;
+    padding-left: auto;
+    padding-right: auto;
 }
