@@ -40,6 +40,7 @@ body {
 #link_card {
     padding-left: auto;
     padding-right: auto;
+    width: 75%;
 }
 #link_card img {
     width: 100%;
