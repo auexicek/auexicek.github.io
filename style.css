@@ -7,6 +7,10 @@ body {
     margin: 0;
 }
 
+#logo {
+    height: 100
+}
+
 #upside {
     display: flex;
     background-color: black; /* rgb(46, 0, 69); */
