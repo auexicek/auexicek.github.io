@@ -1,0 +1,37 @@
+picotron cartridge // www.picotron.net
+version 2
+
+:: gfx/
+:: gfx/0.gfx
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTE2IDIxOjIwOjE3Iixtb2RpZmllZD0iMjAyNC0w
+My0xNiAyMToyMTozOCIscmV2aXNpb249MTBdXWx6NABtAAAABTEAAPMUe1swXT17Ym1wPXB4dQBD
+IBAQBPDwLGZsYWdzPTAscGFuX3gIAM95PTAsem9vbT04fSwxAP--------------------------
+-------------------------------------_dQbT04fX0=
+:: gfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTE2IDIxOjIwOjE3IixzdG9yZWQ9IjIwMjQtMDMt
+MTYgMjE6MjA6MTciXV1sejQABAAAAAMAAAAwbmls
+:: main.lua
+--[[pod_format="raw",created="2024-03-16 21:20:17",modified="2024-03-16 21:21:38",revision=14]]
+function drw()
+	print("hello picotron!",0,0,8)
+end
+:: map/
+:: map/0.map
+b64$LS1bW3BvZF9mb3JtYXQ9InJhdyIsY3JlYXRlZD0iMjAyNC0wMy0xNiAyMToyMDoxNyIsbW9k
+aWZpZWQ9IjIwMjQtMDMtMTYgMjE6MjA6MTciLHJldmlzaW9uPTBdXQo=
+:: map/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTE2IDIxOjIwOjE3IixzdG9yZWQ9IjIwMjQtMDMt
+MTYgMjE6MjA6MTciXV1sejQABAAAAAMAAAAwbmls
+:: sfx/
+:: sfx/0.sfx
+b64$LS1bW3BvZF9mb3JtYXQ9InJhdyIsY3JlYXRlZD0iMjAyNC0wMy0xNiAyMToyMDoxNyIsbW9k
+aWZpZWQ9IjIwMjQtMDMtMTYgMjE6MjA6MTciLHJldmlzaW9uPTBdXQo=
+:: sfx/.info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTE2IDIxOjIwOjE3IixzdG9yZWQ9IjIwMjQtMDMt
+MTYgMjE6MjA6MTciXV1sejQABAAAAAMAAAAwbmls
+:: .info.pod
+b64$LS1bW3BvZCxjcmVhdGVkPSIyMDI0LTAzLTE2IDIxOjIwOjE3IixzdG9yZWQ9IjIwMjQtMDMt
+MTYgMjE6MjE6MzkiLHdvcmtzcGFjZXM9e3tsb2NhdGlvbj0ibWFpbi5sdWEjMyIsd29ya3NwYWNl
+X2luZGV4PTF9LHtsb2NhdGlvbj0iZ2Z4LzAuZ2Z4Iix3b3Jrc3BhY2VfaW5kZXg9Mn19XV1sejQA
+BAAAAAMAAAAwbmls
+:: [eoc]
