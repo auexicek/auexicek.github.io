@@ -4,7 +4,7 @@ function init()
 end
 
 function upd()
-	if key("space") then
+	if keyp("space") then
 		if pt=="picotron" then
 			pt="world"
 		else
